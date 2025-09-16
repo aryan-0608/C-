@@ -48,9 +48,3 @@ int main(){
 //     return 0;
 
 //example of infinate while loop
-int i =1;
-while(true){
-    cout<<i<<endl;
-    i++;
-}
-}
