@@ -18,7 +18,7 @@ int main(){
    // struct employee aryan;
     aryan.eId=1;
     aryan.favchar = 'c';
-    aryan.salary = 100;
+    aryan.salary = 500;
     cout<<"the value is "<<aryan.eId<<endl;
     cout<<"the value is "<<aryan.favchar<<endl;
     cout<<"the value is "<<aryan.salary<<endl;
