@@ -14,9 +14,9 @@ using namespace std;
 
 int main(){
  int a, b;
- cout<<"enter the value of a and b"<<endl;
+  cout<<"enter the value of a and b"<<endl;
   cin>>a>>b;
-  int money = 10000;
+  int money = 1000;
   cout<<"If you have "<<money<<" Rs in your bank account, you will recive "<<moneyReceived(money)<< "Rs after 1 year";
   cout<<"For VIP: If you have"<<money<<" Rs in your bank account, you will recive"<<(money, 1.1)<<"Rs after 1 year";
 //   cout<<"the product of a and b is"<<product(a,b)<<endl;
