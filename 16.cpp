@@ -33,7 +33,7 @@ int main(){
     cout<<"the value of x is "<<x<<" and the value of y is"<<y<<endl;
     //swap(x,y); // this will not swap a and b
      //swappointer(&x, &y); //this will swap a and b using pointer reference
-    swapReferencevar(x,y) = 766; //this will swap a and b using reference variables
+    swapReferencevar(x,y) = 256; //this will swap a and b using reference variables
     cout<<"the value of a is "<<x<<" and the value of y is "<<y<<endl;
     return 0;
 }
