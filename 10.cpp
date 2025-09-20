@@ -48,3 +48,4 @@ int main(){
 //     return 0;
 
 //example of infinate while loop
+//for loop
