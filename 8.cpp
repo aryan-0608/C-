@@ -13,7 +13,7 @@ int main(){
     // a = 45;// you will get an error because a is  a constant
     // cout<<"the value of a is :"<<a<<endl;
 
-    int a =3, b =78, c= 1233;
+    int a =3, b =78, c= 100;
     cout<<"the value of a without setw is:"<<a<<endl;
     cout<<"the value of a without setw is:"<<b<<endl;
     cout<<"the value of a without setw is:"<<c <<endl;
