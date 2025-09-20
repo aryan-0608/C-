@@ -34,7 +34,7 @@ int main(){
       return c;
     }
     void g(){
-        cout<<"\nHello, Good Morning";
+        cout<<"\nHello, Aryan Patel";
     }
     
 
