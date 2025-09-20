@@ -35,6 +35,6 @@ int main(){
     cout<<"enter a number"<<endl;
     cin>>a;
     // cout<<"the factorial of "<<a<<"is"<<factorial(a)<<endl;
-    cout<<"the term in fibonacci sequence at position "<<a<<" is"<<fib(a)<<endl;
+    cout<<"The term in fibonacci sequence at position "<<a<<" is"<<fib(a)<<endl;
     return 0;
 }
