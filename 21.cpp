@@ -29,6 +29,7 @@ void Employee ::setData(int a1, int b1, int c1)
 int main()
 {
     Employee aryan;
+    //aryan .a = 134; -->This will throw error as a is private
      aryan.d = 34;
      aryan.e =89;
      aryan.setData(1,2,4);
