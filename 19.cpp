@@ -28,7 +28,7 @@ int volume (int l,int b, int h){
 }
  
 int main(){
-    cout<<"the sum of 3 and 6 is "<<sum(3,6)<<endl;
+    cout<<"The sum of 3 and 6 is "<<sum(3,6)<<endl;
     cout<<"the sum of 3,7 and 6 is"<<sum(3,7,6)<<endl;
     cout<<"the volume of cuboid of 3, 7 and 6 is"<<volume(3,7,6)<<endl;
     cout<<"the volume of cylinder of radius 3 and heigth 6 is "<<volume(3,6)<<endl;
